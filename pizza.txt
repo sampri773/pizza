@@ -1,1 +1,8 @@
 pizza
+garniture de notre pizza :
+    fromage : 500G
+    saucisse : 250 g
+    poivron : selon la quantité voulu
+    larre fumée  : selon la quantité voulu
+     ananas : quelques tranchées 
+     mozzarela : 250 g 
