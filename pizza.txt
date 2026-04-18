@@ -1,1 +1,39 @@
-pizza
+pizza : 
+Ingrédients (pour 2 pizzas)
+500 g de farine (type 45 ou 00 idéalement)
+300 ml d’eau tiède
+10 g de sel
+5 g de sucre
+7 g de levure boulangère sèche (ou 20 g fraîche)
+2 cuillères à soupe d’huile d’olive
+
+Préparation
+
+1. Activer la levure
+Mélange l’eau tiède + le sucre + la levure.
+Laisse reposer 5 à 10 minutes (ça doit mousser un peu).
+
+2. Mélanger la pâte
+Dans un grand bol :
+
+Mets la farine + le sel
+Ajoute le mélange eau/levure
+Ajoute l’huile d’olive
+Mélange jusqu’à obtenir une pâte
+
+3. Pétrir
+Pétris pendant 10 minutes (à la main ou robot)
+La pâte doit devenir lisse et élastique
+
+4. Repos (très important)
+
+Couvre la pâte
+Laisse lever 1h à 2h (elle doit doubler de volume)
+
+5. Façonner
+
+Divise en 2 boules
+Étale avec les mains (évite le rouleau pour garder l’air)
+Cuisson
+Four très chaud (250°C max)
+8 à 12 minutes
